@@ -1,3 +1,5 @@
+This repo is an illustration of the bug I'm getting when using `gomobile`. See issue [golang/go#27324](https://github.com/golang/go/issues/27324) for more details.
+
 Error message:
 ```
 $ gomobile bind -v -target ios .
